@@ -1,3 +1,5 @@
+//Irene Garzona Moya - Yaritza Lopez Bustos
+
 #include <string>
 #include <iostream>
 #include <queue>
